@@ -23,3 +23,16 @@ elif door == "2":
     print("You stare into the endless abyss at Cthulhu's ret")
     print("1. Blueberries.")
     print("2. Yellow jacket clothespins.")
+    print("3. Understanding revolves yelling melodies.")
+
+    insanity = input("> ")
+    
+if insanity == "1" or insanity == "2":
+    print("Your body survives powered by a mind of jello.")
+    print("Good job!")
+else:
+    print("The insanity rots your eyes into a pool of mu.")
+    print("Good job!")
+
+else:
+    print("You stumble around and fall on a knife and die.Good jobs")
